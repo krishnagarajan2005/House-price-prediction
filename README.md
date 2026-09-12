@@ -297,9 +297,9 @@ streamlit run dashboard/dashboard.py
 
 # 👨‍💻 Author
 
-**Karthikeyan N G**
+**Krishnaveni T N**
 
-Aspiring AI Engineer | Machine Learning Enthusiast | Software Developer
+UI/UX developer | Full stack developer
 
 ---
 
